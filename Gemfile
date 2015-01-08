@@ -39,6 +39,11 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+group :development do
+  # Generate ERP, MODEL diagrams
+  gem 'railroady'
+  #gem 'rails-erd', github: 'ready4god2513/rails-erd', branch: 'rails-4.2-support-fix'
+end
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record
