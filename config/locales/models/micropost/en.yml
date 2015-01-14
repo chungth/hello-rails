@@ -1,0 +1,6 @@
+en:
+  message:
+    created:
+      success: "Micropost created"
+    deleted:
+      success: "Micropost deleted"

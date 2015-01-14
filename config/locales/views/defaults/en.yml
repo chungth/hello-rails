@@ -1,0 +1,11 @@
+en:
+  site_title: "Ruby on Rails Tutorial Sample App"
+  email:
+
+  account:
+    password_reset:
+      title: "Password reset"
+  footer:
+    navigation:
+      about: "About"
+      contact: "Contact"
